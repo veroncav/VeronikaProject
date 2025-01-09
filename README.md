@@ -15,4 +15,5 @@ git push
 <a href="#readme-top">Ulesse</a>
 
 Vaata ka minu konspekti WP-portfoolios:
-<a fhef="https://veronikavanitseva24.thkit.ee/wp/"WP
+<a href="https://veronikavanitseva24.thkit.ee/wp/"WP link</a>
+This site was built using [Git....]
