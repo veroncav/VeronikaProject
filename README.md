@@ -1,16 +1,16 @@
 # TAR Git ülesanded
-<a name="readme-top"></a>
+ <a name="readme-top"></a>
 ## TO DO list mida vaja projektis teha
 Arvestuse saamiseks on vaja teha
-*Koik GIT ulesanded
-*Add
-*Commit
-*Push
-'''
-git add.
-git commit -a -m "commit sisu"
-git push
-'''
+* Koik GIT ulesanded
+* Add
+* Commit
+* Push
+ '''
+ git add .
+ git commit -a -m "commit sisu"
+ git push
+ '''
 
 <a href="#readme-top">Ulesse</a>
 
