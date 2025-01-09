@@ -17,3 +17,5 @@ git push
 Vaata ka minu konspekti WP-portfoolios:
 <a href="https://veronikavanitseva24.thkit.ee/wp/"WP link</a>
 This site was built using [Git....]
+![image](https://github.com/user-attachments/assets/3738f3b5-ccdc-491f-83b8-aee1e8055d6d)
+
